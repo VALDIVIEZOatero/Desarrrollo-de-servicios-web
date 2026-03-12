@@ -79,7 +79,7 @@ APICITAS/
 
 
 # 1. Clonar el repositorio
-git clone https://github.com/VALDIVIEZOatero/Desarrollo-de-servicios-web.git
+git clone https://github.com/VALDIVIEZOatero/Desarrrollo-de-servicios-web.git
 
 # 2. Entrar a la carpeta del proyecto
 cd APICITAS
