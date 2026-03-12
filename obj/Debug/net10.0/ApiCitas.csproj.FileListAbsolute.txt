@@ -1,0 +1,99 @@
+D:\ApiCitas\bin\Debug\net10.0\appsettings.Development.json
+D:\ApiCitas\bin\Debug\net10.0\appsettings.json
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.staticwebassets.endpoints.json
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.exe
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.deps.json
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.runtimeconfig.json
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.dll
+D:\ApiCitas\bin\Debug\net10.0\ApiCitas.pdb
+D:\ApiCitas\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ApiCitas\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.AssemblyReference.cache
+D:\ApiCitas\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfoInputs.cache
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfo.cs
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.CoreCompileInputs.cache
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cs
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cache
+D:\ApiCitas\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ApiCitas\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ApiCitas\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ApiCitas\obj\Debug\net10.0\scopedcss\bundle\ApiCitas.styles.css
+D:\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json
+D:\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ApiCitas\obj\Debug\net10.0\staticwebassets.development.json
+D:\ApiCitas\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ApiCitas\obj\Debug\net10.0\swae.build.ex.cache
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.Up2Date
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.dll
+D:\ApiCitas\obj\Debug\net10.0\refint\ApiCitas.dll
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.pdb
+D:\ApiCitas\obj\Debug\net10.0\ApiCitas.genruntimeconfig.cache
+D:\ApiCitas\obj\Debug\net10.0\ref\ApiCitas.dll
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\appsettings.Development.json
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\appsettings.json
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.staticwebassets.endpoints.json
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.exe
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.deps.json
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.runtimeconfig.json
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.dll
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\ApiCitas.pdb
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Pre_servicios\ApiCitas\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.AssemblyReference.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfoInputs.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfo.cs
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.CoreCompileInputs.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cs
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\scopedcss\bundle\ApiCitas.styles.css
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\staticwebassets.development.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\swae.build.ex.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.Up2Date
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.dll
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\refint\ApiCitas.dll
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.pdb
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ApiCitas.genruntimeconfig.cache
+D:\Pre_servicios\ApiCitas\obj\Debug\net10.0\ref\ApiCitas.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\appsettings.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.staticwebassets.endpoints.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.exe
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.deps.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.runtimeconfig.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\ApiCitas.pdb
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.AssemblyReference.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfoInputs.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.AssemblyInfo.cs
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.CoreCompileInputs.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\scopedcss\bundle\ApiCitas.styles.css
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.csproj.Up2Date
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\refint\ApiCitas.dll
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.pdb
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ApiCitas.genruntimeconfig.cache
+C:\Users\YOLI YMA\Downloads\ApiCitas\obj\Debug\net10.0\ref\ApiCitas.dll
