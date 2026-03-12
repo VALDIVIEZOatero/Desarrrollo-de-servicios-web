@@ -52,7 +52,7 @@ La clínica manejaba citas mediante **agendas físicas**, lo que generaba:
 ## 📂 Estructura del proyecto
 
 ```text
-APICITAS/
+Desarrollo-de-servicios-web/
 ├── Controllers/
 │   ├── CitaController.cs
 │   ├── MedicoController.cs
