@@ -82,7 +82,7 @@ APICITAS/
 git clone https://github.com/VALDIVIEZOatero/Desarrrollo-de-servicios-web.git
 
 # 2. Entrar a la carpeta del proyecto
-cd APICITAS
+cd .\Desarrrollo-de-servicios-web\
 
 # 3. Restaurar paquetes NuGet
 dotnet restore
