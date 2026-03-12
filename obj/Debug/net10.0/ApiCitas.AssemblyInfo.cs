@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCitas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+056aaed07ccf6503bfe3722924c3be1adf8258cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCitas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCitas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
