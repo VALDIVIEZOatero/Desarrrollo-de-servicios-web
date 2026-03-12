@@ -41,7 +41,7 @@ La clínica manejaba citas mediante **agendas físicas**, lo que generaba:
 
 | Categoría        | Tecnología              | Versión / Uso                          |
 |------------------|-------------------------|----------------------------------------|
-| Lenguaje         | C#                      |         (             C# 12            |
+| Lenguaje         | C#                      |                      C# 12            |
 | Framework        | .NET                     | 10.0                                    |
 | Arquitectura     | Capas limpias           | Controllers → Services → Models        |
 | Persistencia     | En memoria              | `List<T>` (simulación – fácil migrar a EF Core) |
